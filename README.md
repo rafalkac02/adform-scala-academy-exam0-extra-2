@@ -1,6 +1,6 @@
 # 2. Matching Brackets (extra)
 
-This is an exercise number 5 from exam conducted after 1st month of Scala Academy at [Adform](https://github.com/adform).
+This is an extra exercise number 2 from exam conducted after 1st month of Scala Academy at [Adform](https://github.com/adform).
 
 Exercise rules & description: [link](https://exercism.org/tracks/scala/exercises/matching-brackets)
 
