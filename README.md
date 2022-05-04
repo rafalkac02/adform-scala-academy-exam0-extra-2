@@ -2,8 +2,13 @@
 
 This is an extra exercise number 2 from exam conducted after 1st month of Scala Academy at [Adform](https://github.com/adform).
 
-Exercise rules & description: [link](https://exercism.org/tracks/scala/exercises/matching-brackets)
+### Task description
 
+Given a string containing brackets `[]`, braces `{}`, parentheses `()`, or any combination thereof, verify that any and all pairs are matched and nested correctly.
+
+Description adapted from: [source](https://exercism.org/tracks/scala/exercises/matching-brackets)
+
+---
 ### Table of contents
 ##### Scala Coding Problems
 1. [Letter value sum](https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1)

@@ -1,6 +1,6 @@
 import scala.collection.mutable
 
-object Brackets{
+object Brackets {
 
   val myStack = mutable.Stack[Char]()
 
